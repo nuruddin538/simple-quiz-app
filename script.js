@@ -32,7 +32,7 @@ const questions = [
       { text: 'Asia', correct: false },
       { text: 'Australia', correct: true },
       { text: 'Arctic', correct: false },
-      { text: 'Africa', correct: true },
+      { text: 'Africa', correct: false },
     ],
   },
 ];
